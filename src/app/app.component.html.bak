@@ -6,8 +6,7 @@
   <p>This is my first Angular Project!</p>
   First Name:<input type="text" name="name"><br><br>  
   Last Name:<input type="text" name="Last name"><br><br>  
-  Age:<input type="text" name="Age"><br><br>  
+  Age:<input type="text" name="Age"><br><br>
   Gender: <input type="radio" name="gender">Male <input type="radio" name="gender">Female<br><br>
-  Address:<input type="text" name="Address"><br><br>
   <input type="button" value="Submit">
 </div> 
