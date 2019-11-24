@@ -1,0 +1,11 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <h1>
+    Welcome to {{ title }}!    
+  </h1>
+  <p>This is my first Angular Project!</p>
+  First Name:<input type="text" name="name"><br><br>  
+  Last Name:<input type="text" name="Last name"><br><br>  
+  Gender: <input type="radio" name="gender">Male <input type="radio" name="gender">Female<br><br>
+  <input type="button" value="Submit">
+</div> 
